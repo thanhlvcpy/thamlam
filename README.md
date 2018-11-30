@@ -1,1 +1,1 @@
-# thamlam
+# phương pháp tham lam
